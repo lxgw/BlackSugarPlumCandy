@@ -23,11 +23,16 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 - 谚文（韩文）部分：因 Jua 仅包含 2367 个常用谚文音节，剩余音节由思源黑体填充，故本字体所包含的谚文字形存在风格不统一的情况，使用本字体显示韩文时可能出现视觉不一致的问题。
 
 ## 授权信息
-本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans)、[M+ FONTS](https://github.com/coz-m/MPLUS_FONTS)、[Jua](https://github.com/woowabros/Jua) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
+本字体是基于以下开源字体改造而成的衍生项目：
+- [Rounded Mgen+](http://jikasei.me/font/rounded-mgenplus/)（[M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) 的衍生字体）
+- [思源黑体](https://github.com/Adobe-fonts/Source-han-sans) 及其衍生字体 [源泉圆体](https://github.com/ButTaiwan/gensen-font)
+- [Jua](https://github.com/woowabros/Jua)
+
+本项目遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
-- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。（但如果告知，我会很感激。🫶）
+- 这款字体无论是个人还是企业都可以自由使用，包括商用，无需付费，也无需另行知会原作者。（但如果告知，我会很感激。🫶）
 - 这款字体可以自由传播、分享，或者将字体安装于系统、嵌入于软件或 APP 中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
 - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样遵守 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 所规定的条款与条件。
 
@@ -35,13 +40,8 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 - 根据 OFL 1.1「许可与条件」中第 1 条的规定，**禁止单独出售字体文件**（OTF/TTF 格式文件）。
 - 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
-### 历史条款说明
-
-本字体最初在公众号「霞鹜」发布时，曾附带如下声明：
-
-> 本公众号所分享的资源均来自互联网，禁止二传、二改、倒卖等行为，也禁止一切商用行为。如有侵权，请联系作者取消分享，删除文章和资源。
-
-该声明仅针对公众号时期的**美化资源分发行为，现已失效**。 本字体在 GitHub 开源发布后，一切使用、修改、再分发行为请遵照 SIL Open Font License 1.1 执行。
+### 条款覆盖说明
+本字体最初通过公众号「霞鹜」以手机美化资源的形式分享。现已在 GitHub 正式开源发布，**授权方式以 SIL Open Font License 1.1 为准**。公众号时期的**资源分发条款已作废**，一切使用、修改、再分发行为请遵照 OFL 协议执行。
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在 TTF 文件夹中下载字体文件。
