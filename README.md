@@ -3,7 +3,7 @@
 Black Sugar Plum Candy is a mobile phone beautification font formerly shared on the WeChat Official Account LXGWSHARE, and has now been officially open-sourced and released on GitHub.
 
 ## 字体简介
-「黑糖话梅」是一款基于多款开源字体融合而成的可爱风格字体，最初通过[公众号「霞鹜」](https://mp.weixin.qq.com/s/-B8Ud_Me5eGbwYVMKx9CnQ)发布，应用于手机字体美化场景。目前该字体已正式在 GitHub 建立仓库，并依据 SIL Open Font License 1.1 协议开源发布。
+「黑糖话梅」是一款基于多款开源字体融合而成的可爱风格字体，最初通过[微博 @孤鹜先森](https://weibo.com/6624339726/Hp8cxpsQB)和[公众号「霞鹜」](https://mp.weixin.qq.com/s/-B8Ud_Me5eGbwYVMKx9CnQ)发布，应用于手机字体美化场景。目前该字体已正式在 GitHub 建立仓库，并依据 SIL Open Font License 1.1 协议开源发布。
 
 ![](./images/overview.png)
 
@@ -41,7 +41,7 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 - 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
 ### 条款覆盖说明
-本字体最初通过公众号「霞鹜」以手机美化资源的形式分享。现已在 GitHub 正式开源发布，**授权方式以 SIL Open Font License 1.1 为准**。公众号时期的**资源分发条款已作废**，一切使用、修改、再分发行为请遵照 OFL 协议执行。
+本字体最初通过公众号「霞鹜」以手机美化资源的形式分享。现已在 GitHub 正式开源发布，**授权方式以 SIL Open Font License 1.1 为准**。微博、公众号分享时期的“︁资源分发条款”︁**已作废**，一切使用、修改、再分发行为请遵照 OFL 协议执行。
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在 TTF 文件夹中下载字体文件。
