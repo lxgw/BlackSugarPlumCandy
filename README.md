@@ -35,6 +35,14 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 - 根据 OFL 1.1「许可与条件」中第 1 条的规定，**禁止单独出售字体文件**（OTF/TTF 格式文件）。
 - 根据 OFL 1.1「许可与条件」中第 5 条的规定，该字体不可在 OFL 1.1 以外的授权许可下发行，亦不可将该字体与可能造成许可证冲突的其他协议字体（如 GNU GPL、IPA 等）混合至同一字体文件。
 
+### 历史条款说明
+
+本字体最初在公众号「霞鹜」发布时，曾附带如下声明：
+
+> 本公众号所分享的资源均来自互联网，禁止二传、二改、倒卖等行为，也禁止一切商用行为。如有侵权，请联系作者取消分享，删除文章和资源。
+
+该声明仅针对公众号时期的**美化资源分发行为，现已失效**。 本字体在 GitHub 开源发布后，一切使用、修改、再分发行为请遵照 SIL Open Font License 1.1 执行。
+
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在 TTF 文件夹中下载字体文件。
 2. [蓝奏云下载 ~~Magisk 模块~~，密码 bnaw](https://lxgw.lanzoum.com/b0cpy70rg)
