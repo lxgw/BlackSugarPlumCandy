@@ -18,7 +18,7 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 - 这不是一个专业的字体项目。
 
 ## 授权信息
-本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
+本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans)、[M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
