@@ -9,16 +9,16 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 #### 原始字体
 - [思源黑体](https://github.com/Adobe-fonts/Source-han-sans) by Adobe，OFL 1.1；
 - [M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) by Coji Morishita（森下浩司），OFL 1.1；
+- [Jua](https://github.com/woowabros/Jua) by Woowa Brothers，OFL 1.1；
 #### 衍生字体
 - [Rounded Mgen+](http://jikasei.me/font/rounded-mgenplus/) by jikasei.me，OFL 1.1；
-- [Jua](https://github.com/woowabros/Jua) by Woowa Brothers，OFL 1.1；
 - [源泉圆体](https://github.com/ButTaiwan/gensen-font) by But Ko，OFL 1.1。
 
 ### 注意事项
 - 这不是一个专业的字体项目。
 
 ## 授权信息
-本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans)、[M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
+本字体是基于开源字体 [思源黑体](https://github.com/Adobe-fonts/Source-han-sans)、[M+ FONTS](https://github.com/coz-m/MPLUS_FONTS)、[Jua](https://github.com/woowabros/Jua) 及其衍生字体改造而成的衍生项目，遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 开源协议。
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
 ### 许可
