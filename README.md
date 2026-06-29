@@ -3,7 +3,7 @@
 Black Sugar Plum Candy is a mobile phone beautification font formerly shared on the WeChat Official Account LXGWSHARE, and has now been officially open-sourced and released on GitHub.
 
 ## 字体简介
-「黑糖话梅」是一款基于多款开源字体融合而成的可爱风格字体，最初通过[微博 @孤鹜先森](https://weibo.com/6624339726/Hp8cxpsQB)和[公众号「霞鹜」](https://mp.weixin.qq.com/s/-B8Ud_Me5eGbwYVMKx9CnQ)发布，应用于手机字体美化场景。目前该字体已正式在 GitHub 建立仓库，并依据 SIL Open Font License 1.1 协议开源发布。
+「黑糖话梅」是一款基于多款开源字体融合而成的可爱风格字体，最初通过[微博 @孤鹜先森](https://weibo.com/6624339726/Hp8cxpsQB)（2019.04）和[公众号「霞鹜」](https://mp.weixin.qq.com/s/-B8Ud_Me5eGbwYVMKx9CnQ)（2019.07）发布，应用于手机字体美化场景。目前该字体已正式在 GitHub 建立仓库，并依据 SIL Open Font License 1.1 协议开源发布。
 
 ![](./images/overview.png)
 
