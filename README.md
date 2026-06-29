@@ -8,7 +8,7 @@ Black Sugar Plum Candy is a mobile phone beautification font formerly shared on 
 ### 制作该字体所利用的开源字体
 #### 原始字体
 - [思源黑体](https://github.com/Adobe-fonts/Source-han-sans) by Adobe，OFL 1.1；
-- [M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) by Coji Morishita，OFL 1.1；
+- [M+ FONTS](https://github.com/coz-m/MPLUS_FONTS) by Coji Morishita（森下浩司），OFL 1.1；
 #### 衍生字体
 - [Rounded Mgen+](http://jikasei.me/font/rounded-mgenplus/) by jikasei.me，OFL 1.1；
 - [Jua](https://github.com/woowabros/Jua) by Woowa Brothers，OFL 1.1；
